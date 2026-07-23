@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Local agent settings (machine-specific)
+.claude/settings.local.json
